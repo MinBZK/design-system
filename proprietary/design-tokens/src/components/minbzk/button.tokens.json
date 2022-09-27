@@ -1,8 +1,8 @@
 {
   "minbzk": {
     "button": {
-      "background-color": { "value": "{example.color.blue.50}" },
-      "color": { "value": "{example.color.grey.100}" }
+      "background-color": { "value": "{minbzk.color.hemelblauw}" },
+      "color": { "value": "{minbzk.color.wit}" }
     }
   }
 }
