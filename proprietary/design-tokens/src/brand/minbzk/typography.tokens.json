@@ -1,0 +1,16 @@
+{
+  "minbzk": {
+    "font": {
+      "sans-serif": {
+        "font-family": {
+          "value": "'RijksoverheidSansWebText', 'Calibri', 'Verdana', 'Arial', sans-serif"
+        }
+      },
+      "serif": {
+        "font-family": {
+          "value": "'RijksoverheidSerifWeb', 'Times New Roman', serif"
+        }
+      }
+    }
+  }
+}
