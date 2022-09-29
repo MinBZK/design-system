@@ -1,0 +1,91 @@
+{
+  "utrecht": {
+    "data-list": {
+      "border-color": {
+        "value": "{minbzk.color.grijs4}"
+      },
+      "border-width": {
+        "value": "1px"
+      },
+      "margin-block-end": {
+        "value": "{minbzk.space.md}"
+      },
+      "margin-block-start": {
+        "value": "{minbzk.space.md}"
+      },
+      "item-key": {
+        "border-right-color": {
+          "value": "{utrecht.data-list.border-color}"
+        },
+        "border-right-width": {
+          "value": "{utrecht.data-list.border-width}"
+        },
+        "color": {},
+        "font-size": {},
+        "font-weight": {
+          "value": "{minbzk.font-weight.bold}"
+        },
+        "line-height": {},
+        "padding-block-end": {
+          "value": "{minbzk.space.sm}"
+        },
+        "padding-block-start": {
+          "value": "{minbzk.space.sm}"
+        },
+        "padding-inline-end": {
+          "value": "{minbzk.space.sm}"
+        },
+        "padding-inline-start": {
+          "value": "{minbzk.space.sm}"
+        }
+      },
+      "item-value": {
+        "color": {},
+        "font-size": {},
+        "line-height": {},
+        "padding-block-end": {
+          "value": "{minbzk.space.sm}"
+        },
+        "padding-block-start": {
+          "value": "{minbzk.space.sm}"
+        },
+        "padding-inline-end": {
+          "value": "{minbzk.space.sm}"
+        },
+        "padding-inline-start": {
+          "value": "{minbzk.space.sm}"
+        }
+      },
+      "rows": {
+        "border-bottom-color": {
+          "value": "{utrecht.data-list.border-color}"
+        },
+        "border-bottom-width": {
+          "value": "{utrecht.data-list.border-width}"
+        },
+        "item": {
+          "margin-block-start": {
+            "value": "{minbzk.space.md}"
+          },
+          "padding-inline-start": {
+            "value": "{minbzk.space.sm}"
+          }
+        },
+        "item-value": {
+          "margin-block-start": {
+            "value": "{minbzk.space.md}"
+          }
+        },
+        "column": {
+          "inline-size": {
+            "value": "50%"
+          },
+          "min-inline-size": {
+            "value": "25ch"
+          }
+        },
+        "gap": {}
+      }
+    }
+  }
+}
