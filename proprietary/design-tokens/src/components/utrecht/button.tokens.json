@@ -1,0 +1,99 @@
+{
+  "utrecht": {
+    "button": {
+      "background-color": {},
+      "border-bottom-color": {},
+      "border-bottom-width": {},
+      "border-color": {},
+      "border-radius": {},
+      "border-width": { "value": "0" },
+      "color": {},
+      "font-size": { "value": "{minbzk.font-size.xl}" },
+      "line-height": { "value": "24px" },
+      "font-weight": {},
+      "inline-size": {},
+      "letter-spacing": {},
+      "margin-block-start": {},
+      "margin-block-end": {},
+      "margin-inline-start": {},
+      "margin-inline-end": {},
+      "min-block-size": {},
+      "min-inline-size": {},
+      "padding-block-start": { "value": "{minbzk.space.xs}" },
+      "padding-block-end": { "value": "{minbzk.space.xs}" },
+      "padding-inline-start": { "value": "{minbzk.space.md}" },
+      "padding-inline-end": { "value": "{minbzk.space.md}" },
+      "text-transform": {},
+      "primary-action": {
+        "background-color": { "value": "{minbzk.color.hemelblauw}" },
+        "border-color": {},
+        "border-width": {},
+        "color": { "value": "{minbzk.color.wit}" },
+        "active": {
+          "background-color": { "value": "{minbzk.color.donkerblauw}" }
+        },
+        "focus": {
+          "background-color": { "value": "{minbzk.color.hemelblauw}" }
+        },
+        "hover": {
+          "background-color": { "value": "{minbzk.color.donkerblauw}" }
+        },
+        "disabled": {
+          "border-color": { "value": "{minbzk.color.grijs2}" },
+          "background-color": { "value": "{minbzk.color.grijs2}" },
+          "color": { "value": "{minbzk.color.grijs3}" }
+        }
+      },
+      "secondary-action": {
+        "background-color": { "value": "{minbzk.color.wit}" },
+        "border-color": { "value": "{minbzk.color.hemelblauw}" },
+        "border-width": { "value": "1px" },
+        "color": { "value": "{minbzk.color.hemelblauw}" },
+        "active": {
+          "background-color": { "value": "{minbzk.color.donkerblauw}" },
+          "border-color": { "value": "{minbzk.color.donkerblauw}" },
+          "color": { "value": "{minbzk.color.wit}" }
+        },
+        "focus": {
+          "color": { "value": "{minbzk.color.hemelblauw}" },
+          "border-color": {},
+          "border-width": {}
+        },
+        "disabled": {
+          "background-color": { "value": "{minbzk.color.wit}" },
+          "border-color": { "value": "{minbzk.color.grijs3}" },
+          "color": { "value": "{minbzk.color.grijs3}" }
+        },
+        "hover": {
+          "color": { "value": "{minbzk.color.donkerblauw}" },
+          "background-color": { "value": "{minbzk.color.wit}" },
+          "border-color": { "value": "{minbzk.color.donkerblauw}" }
+        }
+      },
+      "danger-action": {
+        "background-color": { "value": "" },
+        "border-color": { "value": "" },
+        "color": { "value": "" },
+        "hover": {
+          "background-color": { "value": "" }
+        }
+      },
+      "active": {
+        "background-color": {},
+        "color": {}
+      },
+      "disabled": {
+        "color": {},
+        "hover-background-color": {}
+      },
+      "focus": {
+        "background-color": { "value": "" },
+        "color": { "value": "" }
+      },
+      "hover": {
+        "background-color": {},
+        "color": {}
+      }
+    }
+  }
+}

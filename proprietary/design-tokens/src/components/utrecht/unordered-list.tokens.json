@@ -1,0 +1,17 @@
+{
+  "utrecht": {
+    "unordered-list": {
+      "margin-block-start": { "value": "0" },
+      "margin-block-end": { "value": "{minbzk.space.md}" },
+      "item": {
+        "margin-block-start": {},
+        "margin-block-end": {},
+        "padding-inline-start": { "value": "{minbzk.space.xs}" }
+      },
+      "marker": {
+        "color": {}
+      },
+      "padding-inline-start": { "value": "{minbzk.space.2xl}" }
+    }
+  }
+}

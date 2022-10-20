@@ -1,0 +1,42 @@
+{
+  "minbzk": {
+    "link": {
+      "background-color": {},
+      "color": { "value": "{minbzk.color.hemelblauw}" },
+      "text-decoration": { "value": "underline" },
+      "text-decoration-thickness": { "value": "1px" },
+      "text-underline-offset": { "value": "2px" },
+      "font-weight": { "value": "{minbzk.font-weight.bold}" },
+      "icon": {
+        "background-color": { "value": "{minbzk.color.hemelblauw}" }
+      },
+      "hover": {
+        "background-color": {},
+        "color": { "value": "{minbzk.color.donkerblauw}" },
+        "text-decoration-thickness": { "value": "2px" },
+        "font-weight": { "value": "{minbzk.font-weight.bold}" },
+        "icon": {
+          "background-color": { "value": "{minbzk.color.donkerblauw}" }
+        }
+      },
+      "active": {
+        "background-color": {},
+        "color": { "value": "{minbzk.color.donkerblauw}" },
+        "font-weight": { "value": "{minbzk.font-weight.bold}" },
+        "icon": {
+          "background-color": { "value": "{minbzk.color.donkerblauw}" }
+        },
+        "text-decoration-thickness": { "value": "2px" }
+      },
+      "focus": {
+        "background-color": { "value": "{minbzk.color.hemelblauw-tint2}" },
+        "color": { "value": "{minbzk.color.zwart}" },
+        "font-weight": { "value": "{minbzk.font-weight.bold}" },
+        "icon": {
+          "background-color": { "value": "{minbzk.color.zwart}" }
+        },
+        "text-decoration-thickness": { "value": "3px" }
+      }
+    }
+  }
+}
